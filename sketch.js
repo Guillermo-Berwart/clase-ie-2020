@@ -1,6 +1,9 @@
-function setup() {
-  createCanvas(600, 400);
 
+let sketch; 
+
+function setup() {
+ sketch= createCanvas(700, 400);
+sketch.parent("p5")
 }
 
 function draw() {
