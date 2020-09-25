@@ -1,0 +1,20 @@
+
+
+/* cascada de estilos */ 
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,300&display=swap');
+body{
+
+    background-color: aqua;
+    font-size: 22px;
+    font-family: 'Roboto Mono', monospace;
+    width: 80%;
+    max-width: 600px;
+    margin: 100px 200px ;    
+
+}
+
+h1{
+font-size-adjust: 50px;
+font-weight: normal;
+
+}
